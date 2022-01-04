@@ -1,5 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning Deep Learning, NLP, Machine Learning
+<br>
+
 CV: [cv.pdf](https://github.com/Jay-Ppark/Jay-Ppark/files/7804782/cv.pdf)
 <br>
 
