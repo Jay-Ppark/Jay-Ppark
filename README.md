@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning Deep Learning, NLP, Machine Learning
+CV: [cv.pdf](https://github.com/Jay-Ppark/Jay-Ppark/files/7804782/cv.pdf)
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-Ppark&show_icons=true&theme=radical)
