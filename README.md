@@ -2,7 +2,7 @@
 🌱 I’m currently learning Deep Learning, NLP, Machine Learning
 <br>
 
-CV: [cv.pdf](https://github.com/Jay-Ppark/Jay-Ppark/files/7804782/cv.pdf)
+## [CV](https://obtainable-snowboard-2ed.notion.site/CV-68cdbd8f972f4f239a0e8dead616918f)
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-Ppark&show_icons=true&theme=radical)
