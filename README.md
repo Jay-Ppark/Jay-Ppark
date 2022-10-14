@@ -25,7 +25,7 @@
 | Date | Contents 	| Organizaion |
 |-----	|:----------:	|:-----------:|
 |`2021.08.` ~ `2021.12.`| [Naver Boostcamp AI Tech (2nd)](https://boostcamp.connect.or.kr/program_ai.html) | NAVER Connect Foundation|
-|`2016.02.` ~  	| Department of Computer Science Engineering  | Inha University|
+|`2016.02.` ~ `2022.08.`| Department of Computer Science Engineering  | Inha University|
 
 <!--
 **Jay-Ppark/Jay-Ppark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
