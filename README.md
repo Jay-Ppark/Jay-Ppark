@@ -24,6 +24,7 @@
 
 | Date | Contents 	| Organizaion |
 |-----	|:----------:	|:-----------:|
+|`2023.01.` ~ `2023.02.`| [LG Aimers (2nd)](https://lgaimers.ai) | LG Aimers |
 |`2021.08.` ~ `2021.12.`| [Naver Boostcamp AI Tech (2nd)](https://boostcamp.connect.or.kr/program_ai.html) | NAVER Connect Foundation|
 |`2016.02.` ~ `2022.08.`| Department of Computer Science Engineering  | Inha University|
 
